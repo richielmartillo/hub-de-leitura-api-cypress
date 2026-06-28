@@ -1,8 +1,8 @@
 # Hub de Leitura - API Teste Task
 
-Projeto de automação de testes de API desenvolvido para validar funcionalidades do sistema **Hub de Leitura**.
+Projeto de automação de testes de API desenvolvido com **Cypress**, com o objetivo de validar funcionalidades do sistema **Hub de Leitura**.
 
-Este projeto foi criado a partir dos testes manuais realizados anteriormente no **Postman**, adaptando os principais cenários para automação com **Cypress**.
+Os testes foram escritos no **Visual Studio Code**, utilizando JavaScript e Cypress para validar requisições HTTP, respostas da API, status code e estrutura dos dados retornados.
 
 O objetivo deste projeto é testar rotas relacionadas a **usuários** e **catálogo de livros**, aplicando boas práticas de organização, validação de respostas e estruturação dos testes automatizados.
 
@@ -14,26 +14,5 @@ O objetivo deste projeto é testar rotas relacionadas a **usuários** e **catál
 - **Node.js**
 - **Cypress**
 - **Cypress Plugin API**
-- **Postman**
+- **Visual Studio Code**
 - **Git & GitHub**
-
----
-
-## Uso do Postman no projeto
-
-O **Postman** foi utilizado no módulo anterior para realizar os testes manuais da API, validar requisições, analisar respostas e compreender o comportamento dos endpoints.
-
-Com base nesses testes manuais, os cenários foram adaptados e automatizados neste projeto utilizando **Cypress**.
-
----
-
-## Estrutura do projeto
-
-```bash
-cypress/
-├── e2e/
-│   ├── catalogoLivros.cy.js
-│   └── usuarios.cy.js
-├── fixtures/
-├── support/
-└── videos/
