@@ -1,4 +1,4 @@
-# Hub de Leitura - API Teste Task
+# Hub de Leitura - Testes de API com Cypress
 
 Projeto de automação de testes de API desenvolvido com **Cypress**, com o objetivo de validar funcionalidades do sistema **Hub de Leitura**.
 
