@@ -168,9 +168,4 @@ As sugestões abaixo não fazem parte da implementação atual:
 - Implementar limpeza explícita para recursos de teste quando aplicável ao ambiente da API.
 - Documentar ou versionar o projeto da API necessário para a execução local.
 
-## Autor
 
-**Richie Martillo**
-
-- LinkedIn: _adicione aqui o seu perfil_
-- GitHub: [github.com/richielmartillo](https://github.com/richielmartillo)
